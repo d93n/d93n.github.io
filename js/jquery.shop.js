@@ -529,21 +529,8 @@
 		 */
 		
 		_calculateShipping: function( qty ) {
-			var shipping = 0;
-			if( qty >= 1 ) {
-				shipping = 24;
-			}
-			if( qty >= 2 && qty <= 4 ) {
-				shipping = 48;
-			}
-			
-			if( qty >= 5 && qty <= 8 ) {
-				shipping = 66;
-			}
-			
-			if( qty > 8 ) {
-				shipping = 0;
-			}
+			var shipping = 39;
+
 			
 			return shipping;
 		
