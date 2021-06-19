@@ -529,7 +529,7 @@
 		 */
 		
 		_calculateShipping: function( qty ) {
-			var shipping = 39;
+			var shipping = 0;
 
 			
 			return shipping;
