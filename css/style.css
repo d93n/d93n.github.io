@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #products ul {
-	margin: 1.5em 0;
+	margin: 2.5em 0;
 	padding: 0;
 	list-style: none;
 	overflow: hidden;
@@ -130,7 +130,7 @@ form.add-to-cart p {
 form input.qty {
 	width: 40px;
 	border: 1px solid #eee;
-	font: 2em 'PT Serif', serif;
+	font: 3em 'PT Serif', serif;
 	background: #f9f9f9;
 	color: #000;
 	border-radius: 3px;
