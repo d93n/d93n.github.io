@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 	color: #fc0;
 	margin: 0;
-	font-size: 1.4em;
+	font-size: 2.4em;
 	padding-bottom: 0.2em;
 	border-bottom: 1px dotted #666;
 	text-transform: uppercase;
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 .product-price {
 	width: 4em;
 	height: 4em;
-	font-size: 1.2em;
+	font-size: 2.2em;
 	text-align: center;
 	margin: 1em auto;
 	background: #fff;
@@ -130,7 +130,7 @@ form.add-to-cart p {
 form input.qty {
 	width: 40px;
 	border: 1px solid #eee;
-	font: 1em 'PT Serif', serif;
+	font: 2em 'PT Serif', serif;
 	background: #f9f9f9;
 	color: #000;
 	border-radius: 3px;
@@ -178,7 +178,7 @@ body#checkout-page #site-info {
 }
 
 .shopping-cart th {
-	font-size: 1.3em;
+	font-size: 2.3em;
 	padding: 0.3em;
 	width: 33.3%;
 	border: 1px solid #ddd;
