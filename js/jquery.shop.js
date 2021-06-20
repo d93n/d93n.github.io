@@ -373,6 +373,7 @@
 					var subTotal = qty * price;
 					var total = self._convertString( self.storage.getItem( self.total ) );
 					var sTotal = total + subTotal;
+					var eTotal = subTotal;
 					self.storage.setItem( self.total, sTotal );
 					self._addToCart({
 						product: name,
