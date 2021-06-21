@@ -186,6 +186,7 @@ body#checkout-page #site-info {
 }
 
 .shopping-cart td {
+	font-size: 1.2em;
 	padding: 0.3em;
 	width: 33.3%;
 	border: 1px solid #ddd;
