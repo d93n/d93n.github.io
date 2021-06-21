@@ -360,3 +360,22 @@ body#checkout-page #site-info {
   width: 100%;
   height: 2.5rem;            /* Footer height */
 }
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+
+    display: inline-block;
+	background: LightGray;
+	color: black;
+	font: 1em 'PT Serif', serif;
+	padding: 0.3em 1em;
+	text-align: center;
+	border-radius: 4px;
+	border: 1px solid white;
+
+}
