@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
 .product-price {
 	width: 4em;
 	height: 4em;
-	font-size: 1.7em;
+	font-size: 1.4em;
 	text-align: center;
 	margin: 1em auto;
 	background: #fff;
@@ -130,7 +130,7 @@ form.add-to-cart p {
 form input.qty {
 	width: 40px;
 	border: 1px solid #eee;
-	font: 3em 'PT Serif', serif;
+	font: 1.7em 'PT Serif', serif;
 	background: #f9f9f9;
 	color: #000;
 	border-radius: 3px;
@@ -141,7 +141,7 @@ form input.qty {
 	display: inline-block;
 	background: #cc1400;
 	color: #fff;
-	font: 1em 'PT Serif', serif;
+	font: 1.2em 'PT Serif', serif;
 	padding: 0.3em 1em;
 	text-align: center;
 	border-radius: 4px;
@@ -178,7 +178,7 @@ body#checkout-page #site-info {
 }
 
 .shopping-cart th {
-	font-size: 2.3em;
+	font-size: 1em;
 	padding: 0.3em;
 	width: 33.3%;
 	border: 1px solid #ddd;
@@ -221,7 +221,7 @@ body#checkout-page #site-info {
 }
 
 #pricing {
-	padding: 0.5em;
+	padding: 1.2em;
 	margin: 1em 0;
 	background: #fafafa;
 }
@@ -238,7 +238,7 @@ body#checkout-page #site-info {
 
 #content > h1,
 #checkout-order-form h2 {
-	font-size: 2em;
+	font-size: 1em;
 	text-align: center;
 }
 
@@ -248,7 +248,7 @@ body#checkout-page #site-info {
 }
 
 #checkout-order-form {
-	margin: 1.5em 0;
+	margin: 1em 0;
 }
 
 #checkout-order-form fieldset {
