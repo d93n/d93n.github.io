@@ -58,6 +58,22 @@ inv3{
 	padding-left: 60%;
     color: red;;
 }
+invi1{
+    font-size: 150%;
+    
+    color: Green;
+}
+
+invi2{
+    font-size: 120%;
+    color: Orange;
+}
+
+invi3{
+    font-size: 150%;
+    color: red;;
+}
+
 
 span:before{
     content:" ";
