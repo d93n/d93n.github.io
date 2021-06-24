@@ -71,6 +71,12 @@ span:after{
     width:5px;
 }
 
+p-desc{
+    font-size: 120%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
 #site {
 	max-width: 960px;
 	margin: 0 auto;
