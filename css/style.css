@@ -74,8 +74,8 @@ span:after{
 p-desc{
 	text-align: center;
     font-size: 120%;
-    padding-left: 10px;
-    padding-right: 10px
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 #site {
