@@ -166,6 +166,7 @@ p-desc{
 	border-bottom: 1px dotted #666;
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
+	font-weight: bold;
 }
 
 .product-price {
