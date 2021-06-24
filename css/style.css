@@ -37,6 +37,39 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 100%;
 }
 
+p-lager {
+    font-size: 150%;
+    padding-left: 75%;
+}
+inv1{
+    text-align: center;
+    font-size: 150%;
+    padding-left: 75%;
+    color: Green;
+}
+
+inv2{
+    font-size: 120%;
+    color: Orange;
+}
+
+inv3{
+    font-size: 150%;
+    color: red;;
+}
+
+span:before{
+    content:" ";
+    display:inline-block;
+    width:5px;
+}
+
+span:after{
+    content:" ";
+    display:inline-block;
+    width:5px;
+}
+
 #site {
 	max-width: 960px;
 	margin: 0 auto;
