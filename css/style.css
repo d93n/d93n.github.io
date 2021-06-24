@@ -74,9 +74,9 @@ span:after{
 p-desc{
 	text-align: center;
     font-size: 120%;
-	margin-left: 1em;
-	margin-right: 1em;
-	margin-bottom: 0.5em;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 5px;
 }
 
 #site {
