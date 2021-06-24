@@ -42,7 +42,6 @@ p-lager {
     padding-left: 75%;
 }
 inv1{
-    text-align: center;
     font-size: 150%;
     padding-left: 75%;
     color: Green;
@@ -50,11 +49,13 @@ inv1{
 
 inv2{
     font-size: 120%;
+	padding-left: 75%;
     color: Orange;
 }
 
 inv3{
     font-size: 150%;
+	padding-left: 75%;
     color: red;;
 }
 
